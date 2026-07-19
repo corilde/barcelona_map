@@ -1,0 +1,12 @@
+# dades font i intermèdies (pesen GB; es regeneren amb els scripts)
+data/
+BCN/
+depot/
+.venv/
+__pycache__/
+*.zip
+*.pbf
+*.mbtiles
+*.pmtiles
+.DS_Store
+cache/
