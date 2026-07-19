@@ -10,3 +10,4 @@ __pycache__/
 *.pmtiles
 .DS_Store
 cache/
+!BCN.zip
